@@ -1,5 +1,5 @@
 """
-In this project, I stored names, prices and descriptions of a furniture store's catalogue in variables in order to create receipts for customers
+In this project, I stored names, prices and descriptions of a furniture store's catalogue in variables in order to create receipts for customers.
 """
 
 lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white."
